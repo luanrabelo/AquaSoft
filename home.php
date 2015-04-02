@@ -2,7 +2,6 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Untitled Document</title>
 <body>
 <table width="700" align="center">
   <tr>
